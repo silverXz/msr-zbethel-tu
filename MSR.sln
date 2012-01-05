@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MSR", "MSR\MSR.vcxproj", "{EEEB65CB-4570-4AA6-9402-8F2D7193AD32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MSR_Math", "MSR_Math\MSR_Math.vcxproj", "{8C2A7B50-5D89-4B1E-874D-F186924CDA11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MSR_Driver", "MSR_Driver\MSRDriver.vcxproj", "{8135AF9E-7EB5-4D82-923B-714DAF03085E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEB65CB-4570-4AA6-9402-8F2D7193AD32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEEB65CB-4570-4AA6-9402-8F2D7193AD32}.Debug|Win32.Build.0 = Debug|Win32
+		{EEEB65CB-4570-4AA6-9402-8F2D7193AD32}.Debug|x64.ActiveCfg = Debug|x64
+		{EEEB65CB-4570-4AA6-9402-8F2D7193AD32}.Debug|x64.Build.0 = Debug|x64
+		{EEEB65CB-4570-4AA6-9402-8F2D7193AD32}.Release|Win32.ActiveCfg = Release|Win32
+		{EEEB65CB-4570-4AA6-9402-8F2D7193AD32}.Release|Win32.Build.0 = Release|Win32
+		{EEEB65CB-4570-4AA6-9402-8F2D7193AD32}.Release|x64.ActiveCfg = Release|x64
+		{EEEB65CB-4570-4AA6-9402-8F2D7193AD32}.Release|x64.Build.0 = Release|x64
+		{8C2A7B50-5D89-4B1E-874D-F186924CDA11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C2A7B50-5D89-4B1E-874D-F186924CDA11}.Debug|Win32.Build.0 = Debug|Win32
+		{8C2A7B50-5D89-4B1E-874D-F186924CDA11}.Debug|x64.ActiveCfg = Debug|x64
+		{8C2A7B50-5D89-4B1E-874D-F186924CDA11}.Debug|x64.Build.0 = Debug|x64
+		{8C2A7B50-5D89-4B1E-874D-F186924CDA11}.Release|Win32.ActiveCfg = Release|Win32
+		{8C2A7B50-5D89-4B1E-874D-F186924CDA11}.Release|Win32.Build.0 = Release|Win32
+		{8C2A7B50-5D89-4B1E-874D-F186924CDA11}.Release|x64.ActiveCfg = Release|x64
+		{8C2A7B50-5D89-4B1E-874D-F186924CDA11}.Release|x64.Build.0 = Release|x64
+		{8135AF9E-7EB5-4D82-923B-714DAF03085E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8135AF9E-7EB5-4D82-923B-714DAF03085E}.Debug|Win32.Build.0 = Debug|Win32
+		{8135AF9E-7EB5-4D82-923B-714DAF03085E}.Debug|x64.ActiveCfg = Debug|x64
+		{8135AF9E-7EB5-4D82-923B-714DAF03085E}.Debug|x64.Build.0 = Debug|x64
+		{8135AF9E-7EB5-4D82-923B-714DAF03085E}.Release|Win32.ActiveCfg = Release|Win32
+		{8135AF9E-7EB5-4D82-923B-714DAF03085E}.Release|Win32.Build.0 = Release|Win32
+		{8135AF9E-7EB5-4D82-923B-714DAF03085E}.Release|x64.ActiveCfg = Release|x64
+		{8135AF9E-7EB5-4D82-923B-714DAF03085E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		AMDCaProjectFile = C:\Users\zbethel\Documents\Visual Studio 2008\Projects\MSR\CodeAnalyst\MSR.caw
+		AMDCaPersistentStartup = MSR
+		AMDCaPersistentConfig = Release|Win32
+	EndGlobalSection
+EndGlobal

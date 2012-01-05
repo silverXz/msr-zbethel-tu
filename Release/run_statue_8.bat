@@ -1,0 +1,1 @@
+.\MSR_Driver.exe 1280 720 7 statue.obj 0.25 0.25 0.25 2048
